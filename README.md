@@ -5,6 +5,4 @@ Another change
 Another change
 Testing the CircleCI Install
 Checking on the local remote
-Another new line for testing
-One final github test
-Adding a line for heroku push test.
+Gitline testing at 17:14
