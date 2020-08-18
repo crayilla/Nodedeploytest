@@ -7,3 +7,4 @@ Testing the CircleCI Install
 Checking on the local remote
 Gitline testing at 17:14
 Gitline testing at 17:23
+updatig git online repository
